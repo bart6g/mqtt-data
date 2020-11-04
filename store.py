@@ -12,9 +12,6 @@ import sqlite3
 import pymysql
 
 
-host = 'aws-test.cn5ccyhr8mzh.us-east-1.rds.amazonaws.com'
-user = 'admin'
-password = 'Mqtt1Tutorial'
 # SQLite DB Name
 DB_Name = "db1"
 
